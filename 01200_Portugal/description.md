@@ -4,6 +4,16 @@ Escribí un programa que dibuje una bandera portuguesa, que se ve así:
 
 Como no nos vamos a poner tan quisquillosos, te vamos a pedir una versión simplificada, que se tiene que ver así:
 
-![portugal.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-primeros-programas/master/images/portugal.png)
+<gs-board>
+  GBB/1.0
+     size 3 2
+     cell 0 0 Verde 1
+     cell 0 1 Verde 1
+     cell 1 0 Rojo 1
+     cell 1 1 Rojo 1
+     cell 2 0 Rojo 1
+     cell 2 1 Rojo 1
+     head 2 1
+<gs-board>
 
 Ah, el cabezal empieza en el origen.
