@@ -22,5 +22,3 @@ Con el cabezal en el origen, tu tarea es dibujar esta pseudo-bandera argentina:
     cell 4 0 Azul 1
     head 0 0
 </gs-board>
-
-![argentina.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-primeros-programas/master/images/argentina.png)
