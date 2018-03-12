@@ -16,7 +16,7 @@ Operacionalmente:
 1. luego se mueve al este
 1. luego pone una negra
 
-Es decir: pone una roja el la posicion inicial, y una negra al este
+Es decir: pone una roja en la posicion inicial, y una negra al este
 
 Y ahora mirá este otro:
 
