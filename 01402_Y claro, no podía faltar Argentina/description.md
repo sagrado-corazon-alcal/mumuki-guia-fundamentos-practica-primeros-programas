@@ -6,7 +6,7 @@ Aunque como en Gobstones no hay amarillo, nos vamos a tomar el atrevimiento de c
 
 <gs-board>
   GBB/1.0
-    size 7 3
+    size 6 3
     cell 1 2 Azul 1
     cell 3 2 Azul 1
     cell 0 0 Azul 1
@@ -14,13 +14,11 @@ Aunque como en Gobstones no hay amarillo, nos vamos a tomar el atrevimiento de c
     cell 3 1 Negro 1
     cell 2 0 Azul 1
     cell 5 0 Azul 1
-    cell 6 0 Azul 1
     cell 2 2 Azul 1
     cell 4 2 Azul 1
     cell 1 0 Azul 1
     cell 5 2 Azul 1
     cell 0 2 Azul 1
     cell 4 0 Azul 1
-    cell 6 2 Azul 1
     head 0 0
 </gs-board>
