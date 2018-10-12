@@ -1,4 +1,4 @@
-¿Pensaste que nos habíamos olvidado de nuestra bandera? ¡Claro que no!. 
+Ya lograste dibujar la bandera de Portugal con Gobstones. Ahora probemos hacer una bandera de Latinoamérica. ¿Te animás a dibujar la de Argentina?
 
 Aunque como en Gobstones no hay amarillo, nos vamos a tomar el atrevimiento de cambiarlo por negro (perdón [Belgrano](https://es.wikipedia.org/wiki/Manuel_Belgrano), no nos queda otra :cry:).
 
